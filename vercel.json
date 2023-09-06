@@ -1,10 +1,6 @@
 
 {
-    "builds": [{
-        "src": "Ritkatech/wsgi.py",
-        "use": "@vercel/python",
-        "config": { "maxLambdaSize": "850mb", "runtime": "python3.9" }
-    }],
+
     "routes": [
         {
             "src": "/",
