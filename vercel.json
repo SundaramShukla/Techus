@@ -6,9 +6,4 @@
             "src": "/",
             "dest": "/"
         },
-        {
-            "src": "/(.*)",
-            "dest": "Ritkatech/wsgi.py"
-        }
-    ]
 }
