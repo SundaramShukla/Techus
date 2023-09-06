@@ -9,11 +9,11 @@
         {
             "src": "/",
             "dest": "/"
-        }
+        },
         {
             "src": "",
             "dest": ""
-        }
+        },
         {
             "src": "/(.*)",
             "dest": "Ritkatech/wsgi.py"
