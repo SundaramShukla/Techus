@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pp@ctldja=h=qn8v%zizv=i=upehmif7e3-xkl!#sjla1t61+f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app,*']
+ALLOWED_HOSTS = ['.vercel.app','.now.sh','*']
 
 
 
@@ -128,10 +128,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
-
+import os
 
 STATIC_URL = 'Recharge/static/'
-STATIC_ROOT = 'Recharge/static/'
+STATIC_ROOT = os.path.join(BASE_DIR,,'Recharge/static/')
+
+STATICFILES_DIRS = os.path.join(BASE_DIR,'staticfiles_builds','Recharge/static/')
 
 LOGIN_URL='/Loginpage/'
 LOGIN_REDIRECT_URL = '/Loginpage/'
