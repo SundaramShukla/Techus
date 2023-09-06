@@ -1,0 +1,254 @@
+[
+    {
+        "model": "Recharge.State",
+        "pk": 1,
+        "fields": {
+            "name": "Andhra Pradesh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 2,
+        "fields": {
+            "name": "Arunachal Pradesh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 3,
+        "fields": {
+            "name": "Telangana"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 4,
+        "fields": {
+            "name": "Assam"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 5,
+        "fields": {
+            "name": "Bihar"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 6,
+        "fields": {
+            "name": "Uttar Pradesh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 7,
+        "fields": {
+            "name": "Gujarat"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 8,
+        "fields": {
+            "name": "Goa"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 9,
+        "fields": {
+            "name": "Haryana"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 10,
+        "fields": {
+            "name": "Himachal Pradesh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 11,
+        "fields": {
+            "name": "Jammu and Kashmir"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 12,
+        "fields": {
+            "name": "Madhya Pradesh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 13,
+        "fields": {
+            "name": "Karnataka"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 14,
+        "fields": {
+            "name": "Kerala"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 15,
+        "fields": {
+            "name": "Maharashtra"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 16,
+        "fields": {
+            "name": "Chattisgarh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 17,
+        "fields": {
+            "name": "Delhi"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 18,
+        "fields": {
+            "name": "Daman and Diu"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 19,
+        "fields": {
+            "name": "Dadra and Nagar Hav."
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 20,
+        "fields": {
+            "name": "Manipur"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 21,
+        "fields": {
+            "name": "Megalaya"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 22,
+        "fields": {
+            "name": "Mizoram"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 23,
+        "fields": {
+            "name": "Nagaland"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 24,
+        "fields": {
+            "name": "Odisha"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 25,
+        "fields": {
+            "name": "Punjab"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 26,
+        "fields": {
+            "name": "Rajasthan"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 27,
+        "fields": {
+            "name": "Sikkim"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 28,
+        "fields": {
+            "name": "Tamil Nadu"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 29,
+        "fields": {
+            "name": "Tripura"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 30,
+        "fields": {
+            "name": "Jharkhand"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 31,
+        "fields": {
+            "name": "Uttarakhand"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 32,
+        "fields": {
+            "name": "Lakshadweep"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 33,
+        "fields": {
+            "name": "Chandigarh"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 34,
+        "fields": {
+            "name": "Pondicherry"
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 35,
+        "fields": {
+            "name": "Andaman and Nico.In."
+        }
+    },
+    {
+        "model": "Recharge.State",
+        "pk": 36,
+        "fields": {
+            "name": "West Bengal"
+        }
+    }
+]

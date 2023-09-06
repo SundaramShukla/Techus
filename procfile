@@ -1,0 +1,1 @@
+web: gunicorn Ritikatech.wsgi --log-file -
