@@ -131,7 +131,7 @@ USE_TZ = True
 import os
 
 STATIC_URL = 'Recharge/static/'
-STATIC_ROOT = os.path.join(BASE_DIR,,'Recharge/static/')
+STATIC_ROOT = os.path.join(BASE_DIR,'Recharge/static/')
 
 STATICFILES_DIRS = os.path.join(BASE_DIR,'staticfiles_builds','Recharge/static/')
 
