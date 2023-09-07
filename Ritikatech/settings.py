@@ -83,13 +83,13 @@ WSGI_APPLICATION = 'Ritikatech.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
       
-    }
-}
+#     }
+# }
 
 
 # Password validation
@@ -130,8 +130,8 @@ USE_TZ = True
 
 import os
 
-STATIC_URL = 'Recharge/static/'
-STATIC_ROOT = os.path.join(BASE_DIR,'Recharge/static/')
+STATIC_URL = 'Recharge/static/',
+STATIC_ROOT = os.path.join(BASE_DIR,'Recharge/static/'),
 
 STATICFILES_DIRS = os.path.join(BASE_DIR,'staticfiles_builds','Recharge/static/')
 
