@@ -130,10 +130,14 @@ USE_TZ = True
 
 import os
 
-STATIC_URL = 'Recharge/static/',
 STATIC_ROOT = os.path.join(BASE_DIR,'Recharge/static/'),
+STATIC_URL = 'Recharge/static/',
+STATICFILES_DIRS =[
+    os.path.join(BASE_DIR,'staticfiles_builds','Recharge/static/')
+]
 
-STATICFILES_DIRS = os.path.join(BASE_DIR,'staticfiles_builds','Recharge/static/')
+
+
 
 LOGIN_URL='/Loginpage/'
 LOGIN_REDIRECT_URL = '/Loginpage/'
